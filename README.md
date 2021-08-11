@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collins
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Python, Sql and Power Bi
-- 💞️ I’m looking to collaborate on Data Analytical project
+- 👀 I’m a Data Analysis 
+- 🌱 I’m currently use Python, Sql, Tableau and Power Bi
+- 💞️ I’m looking to collaborate and work on Data Analytical projects
 - 📫 How to reach me on ononikpookechukwu@gmail.com
 
 <!---
