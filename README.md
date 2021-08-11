@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collins
-- 👀 I’m a Data Analysis 
-- 🌱 I’m currently use Python, Sql, Tableau and Power Bi
+- 👀 I’m a Data Analyst 
+- 🌱 I currently use Python, Sql, Tableau, Rapid Miner and Power Bi
 - 💞️ I’m looking to collaborate and work on Data Analytical projects
 - 📫 How to reach me on ononikpookechukwu@gmail.com
 
